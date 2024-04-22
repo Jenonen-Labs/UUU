@@ -1,2 +1,2 @@
 # UUU
-Universal Utility Unit - Discord Bot
+Discord bot for various purposes.
